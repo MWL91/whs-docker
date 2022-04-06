@@ -1,17 +1,17 @@
 <?php
 
 $students = [
-    '***' => 'Dylan Stephen',
-    '***' => 'Simon Panashe',
-    '***' => 'Ahmed',
-    '***' => 'Yassin',
-    '***' => 'Laura Tinatsei',
-    '***' => 'Godfrey',
-    '***' => 'Sibongile Tafadzwa',
-    '***' => 'Ropafadzo Mellisa',
-    '***' => 'Emma Vassily',
-    '***' => 'Arnold',
-    '***' => 'Komila',
+    'Cha***' => 'Dylan Stephen',
+    'Chi***' => 'Simon Panashe',
+    'Fou***' => 'Ahmed',
+    'Kha***' => 'Yassin',
+    'Man***' => 'Laura Tinatsei',
+    'Man***' => 'Godfrey',
+    'Maz***' => 'Sibongile Tafadzwa',
+    'Mus***' => 'Ropafadzo Mellisa',
+    'Ruk***' => 'Emma Vassily',
+    'Rur***' => 'Arnold',
+    'Tem***' => 'Komila',
 ];
 
 $questions = [
